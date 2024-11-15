@@ -1,7 +1,7 @@
 package singleton;
 
 public class DatabaseConnectionLazy {
-	/*
+	
 	private static DatabaseConnectionLazy instance;
 
 	private DatabaseConnectionLazy() {
@@ -16,5 +16,5 @@ public class DatabaseConnectionLazy {
 			}
 		return instance;
 	}
-*/
+
 }

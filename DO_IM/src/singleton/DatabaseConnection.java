@@ -1,7 +1,7 @@
 package singleton;
 
 public class DatabaseConnection {
-	/*
+	
 	private static DatabaseConnection instance = new DatabaseConnection();
 
 	private DatabaseConnection() {
@@ -11,5 +11,5 @@ public class DatabaseConnection {
 	public static DatabaseConnection getInstance() {
 		return instance;
 	}
-	 */
+	 
 }
